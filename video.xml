@@ -189,13 +189,7 @@
 			<zIndex>55</zIndex>
 		</text>
 		
-		<rating name="md_rating">
-			<filledPath>./_inc/art/star_filled.png</filledPath>
-			<unfilledPath>./_inc/art/star-empty.png</unfilledPath>
-			<color>4c5058</color>
-			<linearSmooth>true</linearSmooth>
-		</rating>
-
+		
 		<text name="md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_releasedate">
 			<size>0.09 0.03</size>
 		</text>

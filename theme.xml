@@ -6,7 +6,7 @@
  <feature supported="carousel">
    <view name="system">
 	<sound name="directory">
-    <path>./_inc/music</path>
+    <path>./_inc/music/</path>
 	</sound>	  
    </view>
 </feature>

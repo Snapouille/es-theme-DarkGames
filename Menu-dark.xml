@@ -28,10 +28,10 @@
 
       <text name="systemInfo">
 	    <glowColor>000000</glowColor>
-        <pos>-0 0.512</pos>
+        <pos>-0 0.507</pos>
         <backgroundColor>00000000</backgroundColor>
         <color>ffffff</color>
-        <fontPath>./_inc/fonts/Open.ttf</fontPath>
+        <fontPath>./_inc/fonts/Franchise.ttf</fontPath>
 	    <fontSize>0.050</fontSize>
         <zIndex>999</zIndex>
       </text> 
@@ -71,10 +71,10 @@
    
 	       <helpsystem name="help">
 	 <iconColor>FFFFFF</iconColor>
-     <fontSize>0.038</fontSize>
+     <fontSize>0.030</fontSize>
      <origin>0.5 0.5</origin>
      <pos>0.5 0.97</pos>
-        <fontPath>./_inc/fonts/Open.ttf</fontPath>
+        <fontPath>./_inc/fonts/Franchise.ttf</fontPath>
      </helpsystem>
 
 

@@ -58,25 +58,10 @@
     <origin>0 0</origin>
     <pos>0 0</pos>
     <size>1 1</size>
-	<path>./_inc/art/character.png</path>
-    <path>./${system.theme}/_inc/character.png</path>
-    <zIndex>3</zIndex> 
-    </image> 
-	
-  <image name="sombra" extra="true">
-    <origin>0 0</origin>
-    <pos>0 0</pos>
-    <size>1 1</size>
 	<path>./_inc/art/gamecarousel.png</path>
+    <path>./${system.theme}/_inc/gamecarousel.png</path>
     <zIndex>3</zIndex> 
     </image> 
-
-   		<image name="md_thumbnail">
-			<origin>0.5 0.5</origin>
-			<pos>0.87 0.77</pos>
-			<maxSize>0.14 0.2</maxSize>
-			<zIndex>90</zIndex>
-		</image>
 	
      <video name="md_video">
 		<color>ffffff</color>
@@ -89,27 +74,6 @@
         <showSnapshotDelay>true</showSnapshotDelay>
 		<zIndex>1</zIndex>
      </video> 
-
-	<text name="md_name">
-		<fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
-		<fontSize>0.05</fontSize>
-		<pos>0.53 0.90</pos>
-		<size>0.3 0.0248148148148148</size>
-		<alignment>left</alignment>
-		<color>ffffff</color>
-		<glowColor>10101099</glowColor>			
-		<glowSize>3</glowSize>			
-	</text>
-	
-	<image name="logo" extra="true">
-         <linearSmooth>true</linearSmooth>
-         <origin>0.5 0.5</origin>      
-         <pos>0.8 0.079</pos>
-		 <path>./default/logo1.png</path>
-		 <path>./_inc/logos1/${system.theme}.png</path>
-         <maxSize>0.20 0.11</maxSize>
-         <zIndex>200</zIndex>         
-      </image>
 	
 	
 		<text name="logoText">

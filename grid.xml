@@ -5,15 +5,7 @@
    <!---------------------------grid------------------------------------- -->
 
    <view name="grid">
-      <image name="character" extra="true">
-         <origin>0 0</origin>
-         <pos>0 0</pos>
-         <size>1 1</size>  
-		 <path>./_inc/art/character.png</path>
-         <path>./${system.theme}/_inc/art/character.png</path>
-		<zIndex>4</zIndex> 
-      </image> 
-	  
+      	  
 	  	  	<image name="cliente" extra="true">
 		<pos>0.91 0.01</pos>
 		<maxSize>0.08 0.08</maxSize>
@@ -38,12 +30,6 @@
          <zIndex>99999</zIndex>          
       </image> 
    
-   		<image name="md_thumbnail">
-			<origin>0.5 0.5</origin>
-			<pos>0.87 0.77</pos>
-			<maxSize>0.14 0.2</maxSize>
-			<zIndex>90</zIndex>
-		</image>
 
      <video name="md_video">
 		<color>ffffff</color>
@@ -119,26 +105,7 @@
 		<origin>0 0</origin>
 		<zIndex>10</zIndex>
 	</image>
-	
-	<text name="md_name">
-		<fontPath>./_inc/fonts/gomarice_no_continue.ttf</fontPath>
-		<fontSize>0.05</fontSize>
-		<pos>0.53 0.9</pos>
-		<size>0.3 0.0248148148148148</size>
-		<alignment>left</alignment>
-		<color>ffffff</color>
-		<glowColor>10101099</glowColor>			
-		<glowSize>3</glowSize>			
-	</text>
-	
-	<image name="logo03" extra="true">
-        <pos>0.845 0.1</pos>
-        <maxSize>0.10 0.10</maxSize>
-		<path>./default/game.png</path>
-		<path>./_inc/logos1/${system.theme}.png</path>
-		<color>ffffff</color>
-	    <zIndex>400</zIndex>
-	</image>
+
 	
 		<text name="logoText">
 		<pos>0.691 0.444</pos>
@@ -151,6 +118,7 @@
 	    <rotation>-90</rotation>   
 	    <zIndex>999</zIndex>
     </text>	
+
 </view>
    
    </theme>
