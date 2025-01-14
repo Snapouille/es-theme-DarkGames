@@ -77,6 +77,16 @@
         <fontPath>./_inc/fonts/Digital-Serial-Bold-folder.ttf</fontPath>
      </helpsystem>
 
+<image name="logos1" extra="true">
+		<pos>0.10 0.15</pos>
+		<maxSize>0.28 0.28</maxSize>
+		<color>ffffff</color>
+		<rotation>0</rotation>  
+		<path>./default/logo1.png</path>
+		<path>./_inc/logos1/${system.theme}.svg</path>
+		<path>./_inc/logos1/${system.theme}.png</path>
+		<zIndex>998</zIndex>
+	  </image>
 
 
        </view>

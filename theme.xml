@@ -178,7 +178,7 @@
 <include name="video">./video.xml</include>
 <include name="grid">./grid.xml</include>
 <include name="gamecarousel">./gamecarousel.xml</include>
-<include name="Gamelist dark">./Gamelist-dark.xml</include>
+<include name="gamedark">./gamedark.xml</include>
 
 
    </theme>
